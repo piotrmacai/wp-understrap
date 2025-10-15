@@ -1,0 +1,57 @@
+header#wrapper-navbar,
+#topbar,
+.wrapper,
+div#page {
+	max-width: 5087px;
+	margin: auto;
+}
+.newsletter-result p.response {
+	font-size: 14px;
+	margin-bottom: 1rem !important;
+	.red {
+		color: red;
+	}
+	.green {
+		color: green;
+	}
+}
+p.response {
+	font-size: 16px;
+	.green {
+		color: green;
+	}
+	.red {
+		color: red;
+	}
+}
+.btn-outline-primary,
+.wpcf7 input[type="submit"] {
+	color: #ababab;
+	border-color: #ababab;
+}
+.btn-outline-primary:hover,
+.wpcf7 input[type="submit"]:hover {
+	color: #fff;
+	background-color: #ababab;
+	border-color: #ababab;
+}
+input[type="checkbox"]:checked {
+	background-color: #ababab;
+}
+div#page {
+	overflow: hidden;
+}
+input[type="submit"],
+a.button {
+	transition: 400ms;
+}
+input[type="submit"]:hover,
+a.button:hover {
+	opacity: 0.8;
+}
+div.wrapper {
+	padding-top: 0;
+}
+body {
+	color: #313448;
+}

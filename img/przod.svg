@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109.197" height="139.5" viewBox="0 0 109.197 139.5">
+  <g id="przod" transform="translate(-440 -11561.396)">
+    <text id="PRZOD-2" data-name="PRZOD" transform="translate(440 11678.896)" fill="#313448" font-size="14" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="33.37" y="14">PRZOD</tspan></text>
+    <g id="Group_2585" data-name="Group 2585" transform="translate(463.636 11578.787)">
+      <path id="Path_5990" data-name="Path 5990" d="M102.741,315.574C100.5,326.892,97.05,333.731,91.865,339.7c-6.53,7.517-19.177,7.668-26.844,0-5.828-5.828-9.322-13.089-11.395-25.625" transform="translate(-45.927 -267.441)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_5991" data-name="Path 5991" d="M5.8,264.723c-2.461,5.742.894,18.876,8.306,15.026" transform="translate(-5 -225.904)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_5992" data-name="Path 5992" d="M364.644,264.173c2.533,5.695-.818,18.982-8.267,15.113" transform="translate(-300.739 -225.441)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_5993" data-name="Path 5993" d="M20.856,61.383c0,9.667.679,14.989,1.579,15.432,6.774,3.337,1.378-19.8,13.887-22.758,0,0,3.053-.456,3.109-4.7a4.626,4.626,0,0,0-.983-2.943,4.81,4.81,0,0,0-6.006-1.146C25.631,48.826,20.856,54.344,20.856,61.383Z" transform="translate(-18.345 -40.711)" fill="none" stroke="#e99c28" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="3 5"/>
+      <path id="Path_5994" data-name="Path 5994" d="M160.68,20.9a43.685,43.685,0,0,0-23.1.477" transform="translate(-116.59 -19.566)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_5995" data-name="Path 5995" d="M299.7,55.129a18.758,18.758,0,0,0-8.963-12.052,4.82,4.82,0,0,0-6.628,1.5,4.081,4.081,0,0,0-.48,2.151c-.008,3.812,2.59,4.785,2.59,4.785,11.081,4.227,7.7,25.962,14.111,23.159C301.757,74.048,300.755,59.735,299.7,55.129Z" transform="translate(-239.504 -38.746)" fill="none" stroke="#e99c28" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="3 5"/>
+    </g>
+    <g id="Group_2587" data-name="Group 2587" transform="translate(442 11561.896)">
+      <path id="Path_6019" data-name="Path 6019" d="M-6097-11797.367V-11823h26.273" transform="translate(6097 11823.32)" fill="none" stroke="#313448" stroke-width="1"/>
+      <path id="Path_6022" data-name="Path 6022" d="M0,25.633V0H26.274" transform="translate(106.697 107.66) rotate(180)" fill="none" stroke="#313448" stroke-width="1"/>
+      <path id="Path_6020" data-name="Path 6020" d="M0,25.633V0H26.274" transform="translate(106.697) rotate(90)" fill="none" stroke="#313448" stroke-width="1"/>
+      <path id="Path_6021" data-name="Path 6021" d="M0,25.633V0H26.274" transform="translate(0 107.979) rotate(-90)" fill="none" stroke="#313448" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

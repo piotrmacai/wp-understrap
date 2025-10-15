@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107.697" height="139.5" viewBox="0 0 107.697 139.5">
+  <g id="czubek_glowy" data-name="czubek glowy" transform="translate(-1010.066 -11561.396)">
+    <text id="CZUBEK_GŁOWY" data-name="CZUBEK GŁOWY" transform="translate(1010.566 11678.896)" fill="#313448" font-size="14" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="3.39" y="14">CZUBEK GŁOWY</tspan></text>
+    <g id="Group_2595" data-name="Group 2595" transform="translate(1024.487 11576.479)">
+      <path id="Path_6017" data-name="Path 6017" d="M2334.163,103.119c-.243-3.522-2.861-9.23-9.783-13.844s3.4-11.173,0-19.431-13.636-11.78-19.2-11.658c-5.568-.121-15.8,3.4-19.2,11.658s6.922,14.816,0,19.431S2276.246,99.6,2276,103.119" transform="translate(-2265.645 -53.819)" fill="none" stroke="#e99c28" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="3 5"/>
+      <path id="Path_6012" data-name="Path 6012" d="M2299.2,108.457c9.193-3.336,15.257-11.564,18.016-20.517,1.671-5.427,4.7-21.837,4.7-29.41,0-13.922-14.282-27.907-31.9-27.907s-31.9,13.984-31.9,27.907c0,7.573,2.419,20.735,4.706,29.41,2.32,8.8,8.3,16.766,17.171,20.241" transform="translate(-2250.594 -30.624)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_6013" data-name="Path 6013" d="M2214.313,223.517c-4.111-2.35-6.6,2.121,2.31,12.947" transform="translate(-2210.586 -192.46)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_6014" data-name="Path 6014" d="M2672.761,223.517c4.111-2.35,6.6,2.121-2.31,12.947" transform="translate(-2597.634 -192.46)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_6015" data-name="Path 6015" d="M2365.143,455.441a21.921,21.921,0,0,1-7.273-4.174" transform="translate(-2334.548 -384.66)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_6016" data-name="Path 6016" d="M2515.364,455.441a21.919,21.919,0,0,0,7.273-4.174" transform="translate(-2467.104 -384.66)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_6018" data-name="Path 6018" d="M2432.848,511.917c-2.54,3.4-3.457,6.876-6.187,6.876s-3.878-3.472-6.2-6.944" transform="translate(-2387.225 -435.65)" fill="none" stroke="#313448" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Group_2591" data-name="Group 2591" transform="translate(1010.566 11561.896)">
+      <path id="Path_6019" data-name="Path 6019" d="M-6097-11797.367V-11823h26.273" transform="translate(6097 11823.32)" fill="none" stroke="#313448" stroke-width="1"/>
+      <path id="Path_6022" data-name="Path 6022" d="M0,25.633V0H26.274" transform="translate(106.697 107.66) rotate(180)" fill="none" stroke="#313448" stroke-width="1"/>
+      <path id="Path_6020" data-name="Path 6020" d="M0,25.633V0H26.274" transform="translate(106.697) rotate(90)" fill="none" stroke="#313448" stroke-width="1"/>
+      <path id="Path_6021" data-name="Path 6021" d="M0,25.633V0H26.274" transform="translate(0 107.979) rotate(-90)" fill="none" stroke="#313448" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

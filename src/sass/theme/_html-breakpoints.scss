@@ -1,0 +1,12 @@
+html {
+    font-size: 52px;
+}
+$b: 96px;
+@for $i from 1 through 43 {
+    $c: $i * $b;
+    @media only screen and (max-width: calc(5087px - $c)) {
+        html {
+            font-size: calc(52px - #{$i}px);
+        }
+    }
+}
